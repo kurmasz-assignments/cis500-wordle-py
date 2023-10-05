@@ -1,0 +1,24 @@
+
+Scenario: 
+    User makes a sequence of guesses and wins the game in four steps:
+Input Sequence:
+    audio
+    stern
+    glyph
+    audit
+Watch for:
+    Message indicating that the user wins the game.    
+
+Scenario:
+    User enters words that have fewer than 5 letters
+Input Sequence:
+    audio
+    safe
+    step
+    stop
+    stomp
+Watch For:
+    Error message indicating required word length.
+    Ability to continue game after entering 5 letter word
+
+# Write about five more more scenarios 

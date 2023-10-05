@@ -1,0 +1,7 @@
+# ignore this line
+dog
+cat
+turkey
+# and this line
+sheep
+goat
