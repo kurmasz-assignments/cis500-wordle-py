@@ -1,5 +1,5 @@
 name: wordle_check
-on: workflow_dispatch
+on: push
 jobs:
    run-instructor-tests:
       runs-on: ubuntu-latest
