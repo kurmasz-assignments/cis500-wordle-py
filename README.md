@@ -1,5 +1,8 @@
 # CIS 500 Project 2
 
+Remember to use the GitHub Classroom link [https://classroom.github.com/a/kzy4aYUu](https://classroom.github.com/a/kzy4aYUu).  Please don't fork this repo.
+
+
 For this project, you are going to implement a _text-based_ version of Wordle that produces colored output.
 
 The goals of the project are to 
@@ -11,7 +14,7 @@ The goals of the project are to
 
   1. Learn how to play [Wordle](https://www.nytimes.com/games/wordle/index.html).  ([This video](https://www.youtube.com/watch?v=lv4Zg-209MY) may be helpful.)
   2. Watch [this demo](https://youtu.be/ITrtfavW5sk) of the program you will be creating.
-  3. Follow the following GitHub Classroom link and clone the resulting repo. (Use the Classroom link.  Please do _not_ fork the template repo.) [Link coming soon](https://www.gvsu.edu)
+  3. Follow the following GitHub Classroom link and clone the resulting repo. (Use the Classroom link.  Please do _not_ fork the template repo.) [https://classroom.github.com/a/kzy4aYUu](https://classroom.github.com/a/kzy4aYUu)
 
 ## Color output
 
